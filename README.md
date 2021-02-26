@@ -9,7 +9,7 @@ $ pkg install python2 -y<br>
 $ pkg install git -y<br>
 $ pip install lolcat<br>
 $ git clone https://github.com/LUCIFER-2020/INSTABRUFORCE 
-$ ls<br>
+$ ls
 $ cd Instabruteforce<br>
 $ ls<br>
 $ bash setup<br>
